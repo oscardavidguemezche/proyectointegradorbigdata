@@ -60,5 +60,6 @@ $ que tan fuerte son los datos que tan importante es que tenga guardado los dato
 ### Diagrama de flujo
 
 ``` sh
-https://embed.creately.com/b3b6by7aru8?type=svg```
+https://embed.creately.com/b3b6by7aru8?type=svg 
+```
 
