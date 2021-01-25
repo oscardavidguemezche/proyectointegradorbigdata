@@ -12,10 +12,7 @@ para revisar la informacion. Esto le permitira al usuario, automatizar sus
 labores, tener de manera mas rapida y precisa la informacion y asi reaccionar 
 en base a esta.
 ```
-## Diagrama general de flujo de datos
-```
-  https://embed.creately.com/b3b6by7aru8?type=svg
-```
+
 ### 5v's del big data
 
 ```sh
