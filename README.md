@@ -65,12 +65,16 @@ https://embed.creately.com/b3b6by7aru8?type=svg
 
 ### Diagrama ETL 
 ```
-Extracción: La información desde su origen es un Json, para extraer los archivos es por el comando (import pandas as pd) 
+**Extracción** 
+La informacion es almacenada y extraida de una Base de datos.
 
-Transformación: En este punto, se busca, que los datos obtenidos sean relativos, al funcionamiento de los sensores, que no haya una conexion fallida
-                para garantizar, una mejor lectura de los datos, para poder almacenar los datos de acuerdo que nosotros queremos clasificar los datos
-                por una tabla, que llevemos un control y un orden de los datos obtenidos. 
-                
-               
-Carga: En la carga, se obtendra la informacion por medio de una gráfica 
+**Transformación** 
+Los datos son solicitados por la pagina web a travez de una API, estos son
+entregados a traves de un formato JSON el cual es traducido por la pagina
+para ser presentados finalmente al usuario
+
+**Load**
+Una vez que la informacion solicitada a la API es traducioda del JSON le
+es presentada al usuario por medio de una tabla y una grafica.
+
 ```
