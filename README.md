@@ -52,3 +52,10 @@ $ viralidad:
 $ que tan fuerte son los datos que tan importante es que tenga guardado los datos
 
 ```
+
+
+### Diagrama de flujo
+
+``` sh
+https://embed.creately.com/b3b6by7aru8?type=svg```
+
