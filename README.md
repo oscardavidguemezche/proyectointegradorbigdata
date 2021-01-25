@@ -10,6 +10,7 @@ informacion y enviarla a la base de datos, asi como de interpretarlos para
 hacer funcionar un sistema de riego, ademas se contara con una plataforma 
 para revisar la informacion. Esto le permitira al usuario, automatizar sus 
 labores, tener de manera mas rapida y precisa la informacion y asi reaccionar 
+<<<<<<< HEAD
 en base a esta.```
 
 
@@ -42,4 +43,7 @@ $ ademas contamos con una base de datos asi que hay varidad de formas en la que 
 
 
 
+=======
+en base a esta.
+>>>>>>> fb7aa9be180559f17a698a220bc67adeb9437660
 ```
