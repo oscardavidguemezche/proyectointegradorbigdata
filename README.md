@@ -2,7 +2,7 @@
 
 ### Descripción general
 
-``` sh
+``` 
 El proyecto Gree Peace suerge de la necesidad de los trabajadores agricolas
 de tener un sistema de monitoreo automatizado, este estara conformado un 
 dispositivo conformado por sensores que realizen la tarea de recibir la 
@@ -59,12 +59,12 @@ $ que tan fuerte son los datos que tan importante es que tenga guardado los dato
 
 ### Diagrama de flujo
 
-``` sh
+``` 
 https://embed.creately.com/b3b6by7aru8?type=svg 
 ```
 
 ### Diagrama ETL 
-
+```
 Extracción: La información desde su origen es un Json, para extraer los archivos es por el comando (import pandas as pd) 
 
 Transformación: En este punto, se busca, que los datos obtenidos sean relativos, al funcionamiento de los sensores, que no haya una conexion fallida
@@ -73,5 +73,4 @@ Transformación: En este punto, se busca, que los datos obtenidos sean relativos
                 
                
 Carga: En la carga, se obtendra la informacion por medio de una gráfica 
-
-
+```
