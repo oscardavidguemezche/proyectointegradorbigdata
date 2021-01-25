@@ -2,7 +2,7 @@
 
 ### Descripción general
 
-``` sh
+``` 
 El proyecto Gree Peace suerge de la necesidad de los trabajadores agricolas
 de tener un sistema de monitoreo automatizado, este estara conformado un 
 dispositivo conformado por sensores que realizen la tarea de recibir la 
@@ -56,7 +56,22 @@ $ que tan fuerte son los datos que tan importante es que tenga guardado los dato
 
 ### Diagrama de flujo
 
-``` sh
+``` 
 https://embed.creately.com/b3b6by7aru8?type=svg 
 ```
 
+### Diagrama ETL 
+```
+**Extracción** 
+La informacion es almacenada y extraida de una Base de datos.
+
+**Transformación** 
+Los datos son solicitados por la pagina web a travez de una API, estos son
+entregados a traves de un formato JSON el cual es traducido por la pagina
+para ser presentados finalmente al usuario
+
+**Load**
+Una vez que la informacion solicitada a la API es traducioda del JSON le
+es presentada al usuario por medio de una tabla y una grafica.
+
+```
